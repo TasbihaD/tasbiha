@@ -1,3 +1,4 @@
 int;
 printf("enter the number")
-scanf(%d)
+scanf(%d);
+int++
